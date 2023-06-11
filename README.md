@@ -1,5 +1,13 @@
-### Hi there 👋
+## Добро пожаловать на мою страницу!
+![GitHub stats]
 
+⚡ My top Lang:
+
+![Top Langs]
+
+🔭 [LeetCode]
+
+## 👉 [Мое резюме на HH.ru] 👈
 <!--
 **AleksandrBondar24/AleksandrBondar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
