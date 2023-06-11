@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrBondar24&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksandrBondar24&show_icons=true)
+
 🔭 [LeetCode]
 
 ---
