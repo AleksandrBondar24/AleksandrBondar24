@@ -7,7 +7,7 @@
 
 🔭 [LeetCode]
 
-<a href="https://t.me/BeGLeTs25"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/BeGLeTs24"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## 👉 [Мое резюме на HH.ru](https://voronezh.hh.ru/applicant/resumes/view?resume=7b71835bff0421e7eb0039ed1f515038355142) 👈
 <!--
