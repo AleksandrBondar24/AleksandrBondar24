@@ -7,7 +7,7 @@
 
 🔭 [LeetCode]
 
-## 👉 [Мое резюме на HH.ru]https://voronezh.hh.ru/applicant/resumes/view?resume=7b71835bff0421e7eb0039ed1f515038355142 👈
+## 👉 [Мое резюме на HH.ru](https://voronezh.hh.ru/applicant/resumes/view?resume=7b71835bff0421e7eb0039ed1f515038355142) 👈
 <!--
 **AleksandrBondar24/AleksandrBondar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
