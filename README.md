@@ -1,5 +1,5 @@
 ## Добро пожаловать на мою страницу!
-![GitHub stats]
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrBondar24&theme=github)
 
 ⚡ My top Lang:
 
